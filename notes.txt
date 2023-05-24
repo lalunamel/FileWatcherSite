@@ -1,0 +1,11 @@
+I have:
+
+An image of the program
+A title - FileWatcher
+A Subtitle - Observe the mac file system and monitor for reads, writes, and more!
+A video of the app
+
+Features
+    - Observe any directory and all of its contents
+    - Select event types
+    - Export your results
