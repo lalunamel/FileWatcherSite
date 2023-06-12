@@ -13,7 +13,7 @@ const Home = () => {
                 <div className={styles.textContainer}>
                     <h1>FileWatcher</h1>
                     <h2>Observe the Mac filesystem and monitor for over 30 types of events</h2>
-                    <a className={`${styles.button} ${styles.downloadButton}`} href="https://www.github.com/lalunamel/FileWatcher">Download</a>
+                    <a className={`${styles.button} ${styles.downloadButton}`} href="https://www.github.com/lalunamel/FileWatcher" target="_blank" rel="noreferrer noopener">Download</a>
                 </div>
                 <div>
                     <img src={mainAppImage} alt="A screenshot of the FileWatcher application" />
@@ -22,7 +22,7 @@ const Home = () => {
             <div className={styles.description}>
                 <div>FileWatcher is a tool made for developers that observes the Mac filesystem. It records events like open, close, write, and rename then displays them in an easy to use table. You can filter by event properties within the app, or even export the results for further processing.</div>
 
-                <iframe width="100%" height="394" src="https://www.youtube.com/embed/EPhMWXzoBWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className={styles.video}></iframe>
+                <iframe width="100%" height="452" src="https://www.youtube.com/embed/EPhMWXzoBWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen className={styles.video}></iframe>
             </div>
             <div className={styles.feature}>
                 <img src={watchRootImage} alt="FileWatcher watching root" />
