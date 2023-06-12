@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8eea7c6a.css",
+    "main.js": "/static/js/main.5c5047b3.js",
+    "static/media/watch-root.png": "/static/media/watch-root.fd8fc6d99892cf11cb4e.png",
+    "static/media/main-app.png": "/static/media/main-app.bad67b180fc18ee267ee.png",
+    "static/media/export.png": "/static/media/export.11d560c72efd51e822dc.png",
+    "static/media/event-types.png": "/static/media/event-types.bcf0ca5f17f73914c062.png",
+    "index.html": "/index.html",
+    "main.8eea7c6a.css.map": "/static/css/main.8eea7c6a.css.map",
+    "main.5c5047b3.js.map": "/static/js/main.5c5047b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eea7c6a.css",
+    "static/js/main.5c5047b3.js"
+  ]
+}
